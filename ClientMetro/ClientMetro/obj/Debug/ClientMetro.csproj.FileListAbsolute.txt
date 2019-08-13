@@ -1,0 +1,14 @@
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\bin\Debug\ClientMetro.exe.config
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\bin\Debug\ClientMetro.exe
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\bin\Debug\ClientMetro.pdb
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\bin\Debug\MetroFramework.dll
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.csprojAssemblyReference.cache
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.Form1.resources
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.Properties.Resources.resources
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.csproj.GenerateResource.cache
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.csproj.CoreCompileInputs.cache
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.csproj.CopyComplete
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.exe
+C:\Users\Emoon_000\source\repos\ClientMetro\ClientMetro\obj\Debug\ClientMetro.pdb
